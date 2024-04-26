@@ -21,4 +21,4 @@ Supports node version 20.0.0 and above.
 The following command will install TypeScript, compile the code, and run the test cases that located in index.ts file:
 
 ```sh
-npm run start
+npm i && npm run start
