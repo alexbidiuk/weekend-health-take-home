@@ -1,0 +1,26 @@
+{
+  "name": "weekend-health-take-home",
+  "version": "1.0.0",
+  "description": "This repository contains a TypeScript function `findWords` that identifies all the words in a given dictionary that can be formed by rearranging the letters of an input string, considering case sensitivity and non-English characters.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "tsc --p ./tsconfig.json && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbidiuk/weekend-health-take-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbidiuk/weekend-health-take-home/issues"
+  },
+  "homepage": "https://github.com/alexbidiuk/weekend-health-take-home#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
